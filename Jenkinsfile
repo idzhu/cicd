@@ -13,7 +13,7 @@ pipeline {
                 instanceForInstalledAppUrl:"https://chiarngqdemoclient.service-now.com",
                 sysId:'',
                 appScope: "x_fxi_afioristore2",
-                publishedAppVersion: '4.3.10',
+                publishedAppVersion: '4.3.21',
                 rollbackAppVersion: '',
                 progressCheckInterval: null
             )
